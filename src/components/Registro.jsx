@@ -7,7 +7,7 @@ const Registro = ({ error, setError, msg, color }) => {
     <>
       <h1>Crea una cuenta</h1>
       <SocialButton
-        github={"fa-brands fa-facebook"}
+        github={"github"}
         facebook={"facebook"}
         linkedin={"linkedin"}
       />
